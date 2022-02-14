@@ -13,7 +13,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 public class Driver {
     private Driver() {}
-
+//this is for master branch
     private static WebDriver driver;
 
     public static WebDriver get() {
